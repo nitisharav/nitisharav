@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about DSA or 
 - 📫 How to reach me: My LinkedIn or Twitter
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am also gate qualified petroleum engineer
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
