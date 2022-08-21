@@ -6,10 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on full stack development
-- 🌱 I’m currently learning backend using Spring
+- 🌱 I’m currently learning Dynamic Programming
+- 🍁 I have previously learnt backend using Spring
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with DSA
-- 💬 Ask me about DSA or 
+- 💬 Ask me about DSA or Full Stack Web Development using Spring, Reactjs, SQL
 - 📫 How to reach me: My LinkedIn or Twitter
 - ⚡ Fun fact: I am also gate qualified petroleum engineer
 
