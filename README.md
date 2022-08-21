@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on full stack development
-- 🌱 I’m currently learning Dynamic Programming
+- 🌱 I’m currently learning Dynamic Programming and SDE sheet in GFG
 - 🍁 I have previously learnt backend using Spring
 - 👯 I’m looking to collaborate on Web development
 - 🤔 I’m looking for help with DSA
